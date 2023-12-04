@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">My Application</string>
-    <string name="kotik">Kotik</string>
-    <string name="kirill">Kirill</string>
-    <string name="hint">Введите имя</string>
-</resources>
